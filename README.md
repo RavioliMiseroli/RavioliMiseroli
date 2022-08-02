@@ -1,14 +1,10 @@
-### Hi there 👋
+## 👋 Welcome!
 
-<!--
-**RavioliMiseroli/RavioliMiseroli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  My name is Tina Chen (Xiaoxuan)! 👩‍🎓
+### 🥗🥗🥗LETTUCE start🥗🥗🥗
 
-Welcome! My name is Tina Chen (Xiaoxuan)!👩‍🎓
-
-🥗🥗🥗LETTUCE start🥗🥗🥗
-
-
-🕣 I am currently Application Developing Co-op @UPS
+### 💻 Experience
+Application Developing Co-op @UPS _August 2021 - Present_ 
 
 🔭 I’m currently working on a Discord Bot with the FFXIV API ...
 🌱 I’m currently learning C# and JavaScript...
