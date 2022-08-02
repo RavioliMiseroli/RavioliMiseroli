@@ -2,7 +2,7 @@
 
 ###  My name is Tina Chen (Xiaoxuan)! 
 #### 👩‍🎓 I am a new graduate from Rutgers University - New Brunswick with a B.S. degree in Computer Science.
-## 🥗🥗🥗LETTUCE start🥗🥗🥗
+## 🥗🥗🥗LETTUCE TART🥗🥗🥗
 
 ### 💻 Experiences
 Application Developing Co-op @UPS _August 2021 - Present_ 
