@@ -9,14 +9,14 @@ Application Developing Co-op @UPS _August 2021 - Present_
 
 ### ❕❗ Interests
 
-🔭 I’m currently working on a Discord Bot with the FFXIV API ...
+🔭 I’m currently working on a Discord Bot with the FFXIV API 
 
-🌱 I’m currently learning C# and JavaScript...
+🌱 I’m currently learning C# and JavaScript
 
-📫 How to reach me: Tinacxx1103@gmail.com...
+📫 How to reach me: Tinacxx1103@gmail.com
 
-😄 Pronouns: She/Her/Hers ...
+😄 Pronouns: She/Her/Hers 
 
-⚡ Fun fact: I AM a FFXIV Addict... and I love taking pictures ❤
+⚡ Fun fact: I AM a FFXIV Addict and I love taking pictures ❤
 
 ### 👐 See ya
