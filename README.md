@@ -1,6 +1,6 @@
 ## 👋 Welcome!
 
-###  My name is Tina Chen (Xiaoxuan)! 
+###  My name is Tina
 #### 👩‍🎓 I am a new graduate from Rutgers University - New Brunswick with a B.S. degree in Computer Science.
 ## 🥧🥗🥗LETTUCE TART🥗🥗🥧
 
