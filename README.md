@@ -5,7 +5,9 @@
 ## 🥧🥗🥗LETTUCE TART🥗🥗🥧
 
 ### 💻 Experiences
-Application Developing Co-op @UPS _August 2021 - Present_ 
+Application Developing Co-op @UPS _August 2021 - November 2022_
+Full Stack SWE I @L3Harris _January 2023 - January 2025_
+SWE II @ JPMC _January 2025 - Present_
 
 ### ❕❗ Interests
 
